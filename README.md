@@ -6,4 +6,4 @@
 
 💻 1º DAW student  
 🚀 Learning Java, MySQL, AWS  
-🔥 Future developer
+
